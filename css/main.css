@@ -6,25 +6,37 @@ body {
     text-transform: uppercase;
 }
 .banner {
-    background-color:brown;
-    color: black;
     padding: 10px 20px;
-    height: 100px;
     margin-left: 200px; 
-    width: 735px; 
+    
 }
-   
-img {
-float: left;
-height:250px;
-margin-left:150px;
-}
+ 
 .topnav a {
-    background-color:black;
     font-size: 2em;
     font-family: sans-serif;
     color: white;
+    
+    margin-left: 5px;
+    clear: both;   
+}
+div {
+
+
+margin-left: 200px;
+width: 800px;
+height: 200px;
+
+
+background-color: #555;
+
+
 }
   
- 
-
+img{
+    width: 800px;
+    height: 400px;
+    margin-left: 200px;
+}
+image{
+    height: 300px;
+}
