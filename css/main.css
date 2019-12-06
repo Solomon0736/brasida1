@@ -6,37 +6,54 @@ body {
     text-transform: uppercase;
 }
 .banner {
-    padding: 10px 20px;
-    margin-left: 200px; 
-    
+    padding: 10%;
+      
 }
  
 .topnav a {
     font-size: 2em;
     font-family: sans-serif;
     color: white;
-    
-    margin-left: 5px;
+    margin-left: 20px;
     clear: both;   
+text-decoration: none;
 }
-div {
 
-
-margin-left: 200px;
-width: 800px;
-height: 200px;
-
+.div {
 
 background-color: #555;
-
-
+border-top: 5% solid blueviolet;
+border-bottom: 5% solid blueviolet;
 }
   
 img{
-    width: 800px;
-    height: 400px;
-    margin-left: 200px;
+    width: 85%;
+    height: 308px;
+   
 }
-image{
-    height: 300px;
+.sida {
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    color: #000;
+    line-height: 1.3%;
+    font-weight: 70%;
+}
+ .under sida{
+    border-top: 1% solid #ebebeb;
+    border-bottom: 1% solid #ebebeb;
+}
+.tittel{
+    height: 50%;
+}
+.text{
+    height: 20%;
+    margin-left: 688px;
+    width: 27%;
+    background-color: aqua;
+    height: 50px;
+}
+.topnav{
+    background-color: black;
+    font-size: small; 
+    border-top: 5% solid blueviolet;
+    border-bottom: 5% solid blueviolet;  
 }
