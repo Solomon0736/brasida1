@@ -1,3 +1,4 @@
+
 body {
     background-color:gold;
 }
@@ -7,6 +8,10 @@ body {
 }
 .banner {
     padding: 10%;
+    margin-right: 10%;
+    background-color: beige;
+    float: right;
+    width: 60%;
       
 }
  
@@ -15,27 +20,21 @@ body {
     font-family: sans-serif;
     color: white;
     margin-left: 20px;
-    clear: both;   
-text-decoration: none;
+    padding: 2%;
 }
-  
-img{
-    width: 95%;
-    height: 308px;
-   
-}
+
+
 .sida {
-    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;  
+    line-height: 153%;
+    margin-left: 7%;
     color: #000;
     line-height: 153%;
     margin-left: 7%;
 }
 .text{
 
-    height: 20%;
-    
-     
-   
+    height: 20%;  
 }
 .topnav{
     max-width: 95%;
@@ -49,10 +48,40 @@ img{
     font-size: small;
     border-top: 3px solid #ebebeb;
     border-bottom: solid #ebebeb;
-    width: 87%;
-    margin-left: %;
+    width: 85%;
+    margin-left: 10%;
   
 }
 .content{
     display: flex;
+}
+.right{
+    width: 20%;
+    
+
+}
+.h4{
+    width: 20%;
+}
+.h5{
+    width: 52px;
+    width: 87%;
+    margin-left: 2%;
+  
+}
+.content{
+    display: flex;
+}
+.logo{
+    width: 95%;
+}
+.log{
+width: 78%;
+margin-top: 15%;
+}
+.hotel{
+   
+    margin-top: 15%;
+    color: aquamarine;
+    margin-left: 26%;
 }
