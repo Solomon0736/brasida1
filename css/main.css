@@ -7,6 +7,10 @@ body {
 }
 .banner {
     padding: 10%;
+    margin-right: 10%;
+    background-color: beige;
+    float: right;
+    width: 60%;
       
 }
  
@@ -15,45 +19,46 @@ body {
     font-family: sans-serif;
     color: white;
     margin-left: 20px;
-    clear: both;   
-text-decoration: none;
+    padding: 2%;
 }
 
-.div {
-
-background-color: #555;
-border-top: 5% solid blueviolet;
-border-bottom: 5% solid blueviolet;
-}
-  
 img{
-    width: 85%;
+    width: 95%;
     height: 308px;
    
 }
 .sida {
     font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-    color: #000;
-    line-height: 1.3%;
-    font-weight: 70%;
-}
- .under sida{
-    border-top: 1% solid #ebebeb;
-    border-bottom: 1% solid #ebebeb;
-}
-.tittel{
-    height: 50%;
-}
-.text{
-    height: 20%;
-    margin-left: 688px;
-    width: 27%;
-    background-color: aqua;
-    height: 50px;
+    
+    line-height: 153%;
+    margin-left: 7%;
 }
 .topnav{
+    max-width: 95%;
     background-color: black;
     font-size: small; 
-    border-top: 5% solid blueviolet;
-    border-bottom: 5% solid blueviolet;  
+    border-top: 5px solid blueviolet;
+    border-bottom: 5px solid blueviolet;  
+}
+.under.sida{
+    -webkit-margin-collapse: discard;
+    font-size: small;
+    border-top: 3px solid #ebebeb;
+    border-bottom: solid #ebebeb;
+    width: 85%;
+    margin-left: 10%;
+  
+}
+.content{
+    display: flex;
+}
+.right{
+    width: 20%;
+    margin-top: 255px;
+}
+.h4{
+    width: 20%;
+}
+.h5{
+    width: 52px;
 }
