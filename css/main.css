@@ -21,7 +21,11 @@ body {
     margin-left: 20px;
     padding: 2%;
 }
+<<<<<<< HEAD
 
+=======
+  
+>>>>>>> 7a0eafc3ef8ae2a5f3c1f4dfa8f2a43d95e2a4f9
 img{
     width: 95%;
     height: 308px;
@@ -29,9 +33,22 @@ img{
 }
 .sida {
     font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+<<<<<<< HEAD
     
     line-height: 153%;
     margin-left: 7%;
+=======
+    color: #000;
+    line-height: 153%;
+    margin-left: 7%;
+}
+.text{
+
+    height: 20%;
+    
+     
+   
+>>>>>>> 7a0eafc3ef8ae2a5f3c1f4dfa8f2a43d95e2a4f9
 }
 .topnav{
     max-width: 95%;
@@ -45,6 +62,7 @@ img{
     font-size: small;
     border-top: 3px solid #ebebeb;
     border-bottom: solid #ebebeb;
+<<<<<<< HEAD
     width: 85%;
     margin-left: 10%;
   
@@ -61,4 +79,12 @@ img{
 }
 .h5{
     width: 52px;
+=======
+    width: 87%;
+    margin-left: %;
+  
+>>>>>>> 7a0eafc3ef8ae2a5f3c1f4dfa8f2a43d95e2a4f9
+}
+.content{
+    display: flex;
 }
