@@ -1,3 +1,4 @@
+
 body {
     background-color:gold;
 }
@@ -20,29 +21,26 @@ body {
     color: white;
     margin-left: 20px;
     padding: 2%;
+
 }
-img{
-    width: 95%;
-    height: 308px;
-   
 }
 .sida {
+
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;  
+    line-height: 153%;
+    margin-left: 7%;
     font-family: 'Open Sans', Helvetica, Arial, sans-serif;
 
     
     line-height: 153%;
     margin-left: 7%;
-
     color: #000;
     line-height: 153%;
     margin-left: 7%;
 }
 .text{
 
-    height: 20%;
-    
-     
-   
+    height: 20%;  
 }
 .topnav{
     max-width: 95%;
@@ -58,23 +56,18 @@ img{
     border-bottom: solid #ebebeb;
     width: 85%;
     margin-left: 10%;
-  
-}
-.content{
-    display: flex;
+
 }
 .right{
     width: 20%;
-    
+    margin-top: 17%;
 }
 .h4{
     width: 20%;
 }
 .h5{
-    width: 52px;
-    width: 87%;
-    margin-left: 2%;
-  
+    margin-left:5%;
+    margin-top:1%;
 }
 .content{
     display: flex;
@@ -84,10 +77,28 @@ img{
 }
 .log{
     width: 78%;
-    margin-top: 15%;
+    margin-top: 11%;
 }
 .hotel{
-    margin-top: 15%;
-    color: aqua;
+   
+    margin-top: 20%;
+    color: aquamarine;
     margin-left: 26%;
+}
+section{
+    background-color: blueviolet;
+    padding: 5%;
+    
+    margin-top:17%;
+}
+article{
+    background-color:white;
+    margin-top:5px;
+    padding:10px 15px;
+}
+header{
+    margin:0;
+}
+.nti{
+  margin-top:27px;
 }
