@@ -22,10 +22,20 @@ body {
     margin-left: 20px;
     padding: 2%;
 }
+img{
+    width: 95%;
+    height: 308px;
+}
 
 
 .sida {
+
     font-family: 'Open Sans', Helvetica, Arial, sans-serif;  
+    line-height: 153%;
+    margin-left: 7%;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+
+    
     line-height: 153%;
     margin-left: 7%;
     color: #000;
@@ -50,15 +60,13 @@ body {
     border-bottom: solid #ebebeb;
     width: 85%;
     margin-left: 10%;
-  
 }
 .content{
     display: flex;
 }
 .right{
     width: 20%;
-    
-
+    margin-top: 255px;
 }
 .h4{
     width: 20%;
@@ -67,7 +75,6 @@ body {
     width: 52px;
     width: 87%;
     margin-left: 2%;
-  
 }
 .content{
     display: flex;
