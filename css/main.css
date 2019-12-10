@@ -21,10 +21,7 @@ body {
     color: white;
     margin-left: 20px;
     padding: 2%;
-}
-img{
-    width: 95%;
-    height: 308px;
+
 }
 
 
@@ -66,15 +63,14 @@ img{
 }
 .right{
     width: 20%;
-    margin-top: 255px;
+    margin-top: 17%;
 }
 .h4{
     width: 20%;
 }
 .h5{
-    width: 52px;
-    width: 87%;
-    margin-left: 2%;
+    margin-right:55px;
+    margin:0;
 }
 .content{
     display: flex;
@@ -88,7 +84,26 @@ margin-top: 15%;
 }
 .hotel{
    
-    margin-top: 15%;
+    margin-top: 20%;
     color: aquamarine;
     margin-left: 26%;
+
+}
+h5{
+    width: 20%;
+    height: 50%;
+    margin:0;
+}
+section{
+    background-color: blueviolet;
+    padding: 5%;
+    margin:2px;
+}
+article{
+    background-color:white;
+    margin-top:5px;
+    padding:10px 15px;
+}
+header{
+    margin:0;
 }
