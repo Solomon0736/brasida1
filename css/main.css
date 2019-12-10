@@ -21,9 +21,6 @@ body {
     margin-left: 20px;
     padding: 2%;
 }
-
-  
-
 img{
     width: 95%;
     height: 308px;
@@ -68,7 +65,7 @@ img{
 }
 .right{
     width: 20%;
-    margin-top: 255px;
+    
 }
 .h4{
     width: 20%;
@@ -81,4 +78,16 @@ img{
 }
 .content{
     display: flex;
+}
+.logo{
+    width: 95%;
+}
+.log{
+    width: 78%;
+    margin-top: 15%;
+}
+.hotel{
+    margin-top: 15%;
+    color: aqua;
+    margin-left: 26%;
 }
