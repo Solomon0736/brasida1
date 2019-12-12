@@ -13,18 +13,36 @@ body {
     margin-left: 200px; 
     width: 735px; 
 }
-   
-img {
-float: left;
-height:250px;
-margin-left:150px;
-}
 .topnav a {
     background-color:black;
     font-size: 2em;
-    font-family: sans-serif;
+    font-family: serif;
     color: white;
+    padding: 0px;
+    display: block;
+    clear: both;
+    height: 5px;
+    margin: 5px;
+    content: ".";
 }
-  
- 
+  div {
+      widows: 200px;
+      color: white;
+      margin-left: 200px;
+      width: 9000px;
+      height: 47px;
+
+  }
+  h1{
+      height: 50px;
+     
+      margin-left: 250px;
+  }
+ p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
 
