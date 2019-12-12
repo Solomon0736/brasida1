@@ -1,3 +1,4 @@
+
 body {
     background-color:gold;
 }
@@ -6,43 +7,100 @@ body {
     text-transform: uppercase;
 }
 .banner {
-    background-color:brown;
-    color: black;
-    padding: 10px 20px;
-    height: 100px;
-    margin-left: 200px; 
-    width: 735px; 
+    padding: 10%;
+    margin-right: 10%;
+    background-color: beige;
+    float: right;
+    width: 60%;     
 }
 .topnav a {
-    background-color:black;
     font-size: 2em;
     font-family: serif;
     color: white;
-    padding: 0px;
-    display: block;
-    clear: both;
-    height: 5px;
-    margin: 5px;
-    content: ".";
+    margin-left: 20px;
+    padding: 2%;
 }
-  div {
-      widows: 200px;
-      color: white;
-      margin-left: 200px;
-      width: 9000px;
-      height: 47px;
+.sida {
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;   
+    line-height: 153%;
+    margin-left: 7%;
+    color: #000;
+}
+.text{
 
-  }
-  h1{
-      height: 50px;
-     
-      margin-left: 250px;
-  }
- p {
-    display: block;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
+    height: 20%;  
+}
+.topnav{
+    max-width: 95%;
+    background-color: black;
+    font-size: small; 
+    border-top: 5px solid blueviolet;
+    border-bottom: 5px solid blueviolet;  
+}
+.under.sida{
+    -webkit-margin-collapse: discard;
+    font-size: small;
+    border-top: 3px solid #ebebeb;
+    border-bottom: solid #ebebeb;
+    width: 87%;
+    margin-left: 10%;
+    margin-bottom: 20%;
+    margin-top: 20%;
+    padding-bottom: 25%;
+}
+.right{
+    width: 20%;
+    margin-top: 17%;
+}
+.h4{
+    width: 20%;
+}
+.h5{
+    margin-left:5%;
+    margin-top:1%;
+}
+.content{
+    display: flex;
+}
+.logo{
+    width: 95%;
+}
+.log{
+    width: 78%;
+    margin-top: 11%;
+}
+.hotel{
+   
+    margin-top: 20%;
+    color: aquamarine;
+    margin-left: 26%;
+}
+section{
+    background-color: blueviolet;
+    padding: 5%; 
+    margin-top:17%;
+}
+article{
+    background-color:white;
+    margin-top:5px;
+    padding:10px 15px;
+}
+header{
+    margin:0;
+}
+.nti{
+  margin-top:27px;
 }
 
+.tvätt1{
+height: 30%;
+width:42%;
+}
+.tvätt2{
+    height: 31%;
+    width:44%;
+    }
+    .tvätt3{
+        height: 31%;
+        width:44%;
+        }
