@@ -45,7 +45,6 @@ body {
     width: 87%;
     margin-left: 10%;
     margin-bottom: 20%;
-    margin-top: 20%;
 }
 .right{
     width: 20%;
@@ -90,18 +89,10 @@ header{
 .nti{
   margin-top:27px;
 }
-
-.tvätt1{
-height: 30%;
-width:42%;
-}
-.tvätt2{
-height: 31%;
-width:44%;
-} .tvätt3{
- height: 31%;
- width:44%;
-  }
  .left{
  padding-bottom: 24%;
+}
+.tvätt{
+padding:10px 15px;
+margin-top:5px; 
 }
