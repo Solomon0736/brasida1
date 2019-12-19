@@ -48,28 +48,31 @@ text{
     border-top: 3px solid #ebebeb;
     border-bottom: solid #ebebeb;
     width: 87%;
-    margin-left: 10%;
-    margin-bottom: 20%;
-    text-align: center;
+    
 }
 .right{
+    margin-left: 24%;
     width: 20%;
-    margin-top: 17%;
+    margin-top: 3%;
+    float: inherit;
 }
-.h4{
-    width: 20%;
+.tittel{
+font-size:larger;
 }
 .h5{
     margin-left:5%;
-    margin-top:1%;
     width: 50%;
-    height: 50%;
 }
 .content{
     display: flex;
 }
 .logo{
     width: 95%;
+    margin-bottom: 0%;
+}
+.log{
+    height: 100%;
+    width: 20%;
 }
 
 .hotel{
@@ -99,8 +102,11 @@ header{
  padding-bottom: 24%;
 }
 .tvätt{
-padding:10px 15px;
-margin-top:5px; 
+    padding: 10px 15px;
+    margin-top: 17px;
+    width: 126%;
+    height: 69%;
+    margin-left: 12%;
 }
 
 img {
