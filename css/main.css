@@ -2,14 +2,13 @@
 html, body {
     background-color:gold;
     height: 100%;
-    width: 100%;
+    width: 90%;
 }
 .main-nav {
     background: #2a2a2a;
     text-transform: uppercase;
 }
 .banner {
-    padding: 10%;
     margin-right: 10%;
     background-color: beige;
     float: right;
